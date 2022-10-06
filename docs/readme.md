@@ -20,6 +20,7 @@
 A `<br>` a sörtörést jelöli
 
 ## Kódblokkok
+
 ```css
 body{
     background-color: purple;
